@@ -1,0 +1,3 @@
+Didgital,Telegraph,Artem,Aist,Bes,Urgal,Dianet,Elite,Flex,Lada,Komteh,King,Konnekt,Kraslink,Ktelek,
+Optik,Lanta,Metronet,Netby,Novotel,Nevod,Newlink,Orion,Podryad,Perspektiv,Post,Redkom,
+RostHBR,RostNSK,Skaynet,Citilink,Tauer,Baikal,Zapsib,Darsip,Utelekom,Vladnet,Corbina,Yarnet
